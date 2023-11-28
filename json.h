@@ -1,0 +1,11 @@
+
+#ifndef CASO_FINAL_INTEGRADOR_JSON_H
+#define CASO_FINAL_INTEGRADOR_JSON_H
+
+
+class json {
+
+};
+
+
+#endif //CASO_FINAL_INTEGRADOR_JSON_H
