@@ -11,5 +11,4 @@
 {
 "type": "git",
 "url": "https://github.com/Tencent/rapidjson"
-}
-}
+},
